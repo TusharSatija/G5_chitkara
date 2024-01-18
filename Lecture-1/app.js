@@ -5,6 +5,7 @@ let Person={
 }
 let P1=Object.create(Person)
 
+
 console.log(Person.name);
 console.log(Person.isadult);
 console.log(Person.age);
